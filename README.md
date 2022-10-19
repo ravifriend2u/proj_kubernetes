@@ -1,4 +1,4 @@
-(https://app.circleci.com/pipelines/github/ravifriend2u/proj_kubernetes/1/workflows/cad18def-1784-422c-b743-04f970a03203)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/ravifriend2u/proj_kubernetes/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/ravifriend2u/proj_kubernetes/tree/main)
 
 ## Project Overview
 
