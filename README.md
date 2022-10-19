@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+(https://app.circleci.com/pipelines/github/ravifriend2u/proj_kubernetes/1/workflows/cad18def-1784-422c-b743-04f970a03203)
 
 ## Project Overview
 
